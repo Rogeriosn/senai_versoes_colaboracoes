@@ -1,10 +1,10 @@
-# senai_versoes_colaboracoes
-## Para estudos e testes do curso Dev Full Stack do Senai
-
+# Senai Versões de Colaboracões
+## Ambiente criado para o desenvolvimento de estudos e testes do curso Dev Full Stack do Senai/SP.
+~~~ bash
 Criado por: Rogério Nascimento
 
 E-mail: rogeriorsnascimento@gmail.com
-
+~~~
 ---
 ### Dicas de Construção do Readme
 #### 1. Título e Descrições
