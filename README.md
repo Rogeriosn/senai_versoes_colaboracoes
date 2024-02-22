@@ -1,4 +1,4 @@
-# Senai Versões de Colaborações
+# Senai: Versões de Colaborações
 ### Ambiente criado para o desenvolvimento de estudos e testes do curso Dev Full Stack do Senai/SP.
 ~~~ bash
 Criado por: Rogério Nascimento
@@ -46,13 +46,10 @@ Esse projeto foi criado utilizando as tecnologias:
 - [.NET](https://dotnet.microsoft.com/download)
 ### Editor
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 
 ---
 ## 📦️ Git Clone > Como rodar o projeto
-
 ### Clone o repositório
-  
 Se desejar clonar este projeto, [clique aqui](https://github.com/rogeriosn/senai_versoes_colaboracoes.git) e fique à vontade!
 
 ---
