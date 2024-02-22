@@ -6,7 +6,7 @@ Criado por: Rogério Nascimento
 E-mail: rogeriorsnascimento@gmail.com
 ~~~
 ---
-### Dicas de Construção do Readme
+## 🔮 Dicas de Construção do Readme
 #### 1. Título e Descrições
 - Inclua o título e uma breve descrição sobre o projeto. Tente trazer clareza sobre o propósito do projeto.
 
@@ -37,4 +37,20 @@ E-mail: rogeriorsnascimento@gmail.com
 - Quais foram os contribuidores que auxiliaram no desenvolvimento do projeto?
 - Caso a pessoa tenha algum problema ou queira fornecer um feedback, indique como ela pode se comunicar com você.
 
+---
+
+## 👨‍💻️ Tecnologias Utilizadas
+Esse projeto foi criado utilizando as tecnologias:
+### Back-End
+- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [.NET](https://dotnet.microsoft.com/download)
+### Editor
+- [Visual Studio Code](https://code.visualstudio.com/)
+---
+## 📦️ Como rodar o projeto
+
+```bash
+  # Clone o repositório
+  ❯ git clone 
+https://github.com/rogeriosn/senai_versoes_colaboracoes.git
 
