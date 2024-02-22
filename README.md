@@ -27,7 +27,8 @@ E-mail: rogeriorsnascimento@gmail.com
 - Imagine que ruim seria a pessoa não conseguir evoluir a aplicação, porque não tem as ferramentas necessárias?
 
 #### 6. Execução da Aplicação
-- Cada aplicação é executada de uma maneira. Enquanto no C# para executar o projeto você roda um comando dotnet run, em node é: npm start.
+- Cada aplicação é executada de uma maneira.
+- Enquanto no C# para executar o projeto você roda um comando 'dotnet run', em node o comando é 'npm start'.
 
 #### 7. Erros Comuns
 - Você passou por algum problema ao instalar uma ferramenta? Existe algum cenário conhecido que possa ser compartilhado?
