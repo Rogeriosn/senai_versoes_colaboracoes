@@ -2,7 +2,7 @@
 ### Ambiente criado para o desenvolvimento de estudos e testes do curso Dev Full Stack do Senai/SP.
 ~~~ bash
 Criado por: Rog√©rio Nascimento
-OUTRA ALTERA«√O NO README PARA EXEMPLO-BRANCH
+LINHA INSERIDA PARA TESTES
 E-mail: rogeriorsnascimento@gmail.com
 ~~~
 ---
