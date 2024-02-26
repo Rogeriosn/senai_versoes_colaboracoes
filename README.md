@@ -56,6 +56,6 @@ Se desejar clonar este projeto, [clique aqui](https://github.com/rogeriosn/senai
 ---
 ## ✍️ Fonte de Pesquisa > SENAI
 ### Serviço Nacional de Aprendizagem Industrial
-Este material de Boas Práticas de Versionamento foi produzido e aplicado ao README a partir de pesquisas realizadas no site do [SENAI](https://sp.senaiead.senai.br/) servindo como modelo.
+Este material de Boas Práticas de Versionamento foi produzido e aplicado ao README a partir de pesquisas realizadas no site do [SENAI](https://sp.senaiead.senai.br/) servindo como parâmetro de desenvolvimento para o modelo proposto no execício 04b - Atividade 2 - Pesquisa individual de boas práticas de versionamento.
 -- - 
 
