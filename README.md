@@ -54,3 +54,8 @@ Esse projeto foi criado utilizando as tecnologias:
 Se desejar clonar este projeto, [clique aqui](https://github.com/rogeriosn/senai_versoes_colaboracoes.git) e fique à vontade!
 
 ---
+## ✍️ Fonte de Pesquisa > SENAI
+### Serviço Nacional de Aprendizagem Industrial
+Este material de Boas Práticas de Versionamento foi produzido e aplicado ao README a partir de pesquisas realizadas no site do [SENAI](https://sp.senaiead.senai.br/) servindo como modelo.
+-- - 
+
