@@ -1,0 +1,71 @@
+# Exercício 04b - Atividade 2 - Pesquisa individual de boas práticas de versionamento
+### Versionamento de Código: Boas Práticas e Ferramentas para Controle de Versão.
+
+~~~ bash
+Criado por: Rogério Nascimento
+
+E-mail: rogeriorsnascimento@gmail.com
+~~~
+---
+## 🔮 Dicas de Boas Práticas para Versionamento de software
+O desenvolvimento de software é uma atividade dinâmica e contínua, onde as equipes trabalham constantemente para adicionar novas funcionalidades, corrigir bugs e aprimorar o desempenho dos sistemas. Portanto, o versionamento de código surge como uma peça-chave para o sucesso dos projetos, permitindo um controle preciso das alterações realizadas no código-fonte e proporcionando uma colaboração eficiente entre os desenvolvedores. 
+
+
+
+#### O que é Versionamento de Código?
+O versionamento de código, também conhecido como controle de versão, é uma prática que consiste em acompanhar e registrar todas as alterações feitas nos arquivos de código-fonte de um projeto ao longo do tempo. Afinal, cada modificação feita, seja ela uma adição de código, correção de bugs ou qualquer outra mudança, é armazenada em um sistema de controle de versão, como o Git. Todavia, essa abordagem possibilita o rastreamento detalhado das modificações, permitindo que os desenvolvedores visualizem e acessem versões anteriores do código facilmente.
+
+Através do versionamento de código, os desenvolvedores entendem o histórico completo de mudanças realizadas em um arquivo, quem as fez e quando foram feitas. Essa transparência ajuda a identificar erros e entender como o código evoluiu ao longo do tempo. Além disso, o controle de versão é uma ferramenta essencial para o trabalho colaborativo, permitindo que diversos desenvolvedores trabalhem em paralelo em diferentes partes do projeto sem comprometer a estabilidade do código.
+
+#### Como funciona?
+O processo de versionamento de código funciona por meio de sistemas de controle que registram e gerenciam alterações feitas no código-fonte de um projeto de software. Cada alteração é registrada como um "commit", contendo informações detalhadas sobre as modificações efetuadas. Esses commits são organizados em uma linha do tempo, permitindo o acesso fácil a versões anteriores do código. 
+
+Além disso, o uso de "branches" possibilita o trabalho em funcionalidades ou correções separadamente, sem afetar a versão principal do projeto. Isso facilita a colaboração entre desenvolvedores e possibilita a realização de testes e experimentações sem comprometer a estabilidade do código. Com o versionamento de código, equipes podem trabalhar de forma organizada e segura, garantindo a integridade e a evolução do projeto ao longo do tempo.
+
+---
+
+#### Importância do Versionamento de Código
+Inegavelmente, o versionamento de código desempenha um papel crucial no desenvolvimento de software, trazendo diversos benefícios para as equipes de desenvolvimento e para o projeto como um todo. Confira abaixo alguns dos benefícios:
+
+#### 1. Utilizar um Sistema de Controle de Versão
+O primeiro passo no processo de versionamento de código é escolher e utilizar um sistema de controle de versão (VCS - Version Control System). O VCS é uma ferramenta que permite registrar e gerenciar as alterações feitas no código-fonte ao longo do tempo. Ele mantém um histórico detalhado de cada modificação realizada, incluindo informações como quem fez a alteração, quando foi feita e uma descrição do que foi alterado.
+
+Existem diferentes tipos de sistemas de controle de versão, sendo o Git um dos mais populares e amplamente utilizados atualmente. O Git é um sistema de controle de versão distribuído, o que significa que cada desenvolvedor possui uma cópia completa do repositório do projeto em seu ambiente local, tornando-o eficiente e permitindo trabalhar offline. Além do Git, outros sistemas de controle de versão conhecidos incluem o Subversion (SVN) e o Mercurial.
+
+#### 2. Repositório
+O repositório armazena todo o código-fonte e o histórico de alterações. É hospedado em diferentes plataformas, como servidores locais, serviços de hospedagem na nuvem, como o GitHub ou o GitLab, ou em ambientes de controle de versões corporativos. Todos os desenvolvedores envolvidos no projeto têm o repositório central como referência, compartilhando e integrando as alterações a partir dele.
+
+#### 3. Organizar a Estrutura de Branches
+Contudo, para evitar conflitos e confusões no desenvolvimento do projeto, é recomendado organizar a estrutura de branches de forma clara e consistente. Geralmente, é utilizado um branch principal, como o main, master ou develop, que representa a versão estável do projeto. Além disso, branches específicos podem ser criados para trabalhar em funcionalidades ou correções separadamente. Todavia, essa abordagem garante uma separação clara das alterações e facilita a integração de mudanças no código principal.
+
+#### 4. Commits Significativos
+Ao realizar commits, é importante fazê-los de forma significativa e bem documentada. Cada commit deve representar uma alteração coesa e atômica, ou seja, relacionada a uma única tarefa ou correção. Outrossim, a mensagem de commit deve ser clara e descritiva, explicando o que foi feito e, quando necessário, o porquê. Commits significativos tornam o histórico de alterações mais legível e facilitam a compreensão do progresso do projeto. Além disso, commits bem estruturados auxiliam na identificação de erros específicos e na implementação de melhorias em versões futuras.
+
+#### 5. Mesclagem (Merge) e Resolução de Conflitos
+No processo de desenvolvimento, a equipe frequentemente enfrenta conflitos quando mescla ou integra diferentes versões do código ao projeto principal. Entretanto, é de suma importância que a equipe resolva esses conflitos de forma organizada, garantindo a correta incorporação de todas as alterações ao código.
+
+Assim, a equipe de desenvolvimento desempenha um papel crucial na resolução de conflitos, garantindo a estabilidade do projeto e considerando todas as alterações feitas. Ao lidar com conflitos, os desenvolvedores asseguram a integração coerente das mudanças realizadas por diferentes membros da equipe, preservando a funcionalidade e a qualidade do código.
+
+#### 6. Documentação e Tags de Versão
+Utilizar tags de versão para marcar lançamentos significativos do projeto. As tags permitem que a equipe identifique facilmente versões estáveis e importantes do software. Além disso, é fundamental documentar os detalhes das versões, como novas funcionalidades adicionadas, bugs corrigidos e alterações significativas. A documentação das versões auxilia no processo de comunicação entre os membros da equipe e permite que os usuários finais entendam as mudanças feitas no software. Uma documentação clara e abrangente é valiosa para a equipe e para os stakeholders, garantindo a transparência e a compreensão do projeto em diferentes fases do desenvolvimento.
+
+Ao adotar as melhores práticas e utilizar um sistema de controle de versão adequado, os desenvolvedores podem trabalhar de forma mais eficiente, facilitando a colaboração e evitando problemas decorrentes de alterações mal gerenciadas.
+
+#### 7. Controle de Acesso e Permissões em Repositórios
+A definição cuidadosa dos controles de acesso em repositórios de código é uma prática essencial para garantir a segurança e a integridade do projeto. Estabelecer permissões apropriadas assegura que apenas membros autorizados possam efetuar mudanças cruciais, protegendo o código contra alterações não autorizadas.
+
+Ao configurar o controle de acesso, é crucial categorizar os membros da equipe com base em suas responsabilidades. Conceder permissões específicas a cada função, como leitura, gravação ou administração, ajuda a manter a governança adequada sobre o repositório. Por exemplo, desenvolvedores podem ter acesso de gravação para contribuir com alterações, enquanto revisores podem focar em revisões sem realizar modificações diretas.
+
+Além disso, ao restringir o acesso a certas partes do código, especialmente aquelas relacionadas a funcionalidades críticas, a equipe reduz o risco de falhas inadvertidas. Essa abordagem não apenas fortalece a segurança do projeto, mas também facilita a detecção rápida e a correção de problemas potenciais.
+
+Em resumo, o controle adequado de acesso e permissões em repositórios é um pilar fundamental para um ambiente de desenvolvimento seguro e organizado. Garantir que apenas membros autorizados tenham acesso a determinadas funcionalidades preserva a confidencialidade e a estabilidade do código, contribuindo para o sucesso contínuo do projeto.
+
+---
+## ✍️ Fonte de Pesquisa
+### Sites de Pesquisa e Estudos
+Este material de Boas Práticas de Versionamento foi produzido e aplicado a partir de pesquisas realizadas em:
+
+- [SENAI](https://sp.senaiead.senai.br/) 
+- [Casa do Desenvolvedor](https://blog.casadodesenvolvedor.com.br/versionamento-de-codigo/)
+
+---
