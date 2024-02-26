@@ -6,7 +6,7 @@ Criado por: Rogério Nascimento
 E-mail: rogeriorsnascimento@gmail.com
 ~~~
 ---
-## 🔮 Dicas de Construção do Readme
+## 🔮 Dicas de Boas Práticas na Construção do Readme
 #### 1. Título e Descrições
 - Inclua o título e uma breve descrição sobre o projeto. Tente trazer clareza sobre o propósito do projeto.
 
